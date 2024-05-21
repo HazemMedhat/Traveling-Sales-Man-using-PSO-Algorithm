@@ -69,9 +69,9 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgements
 A huge thanks to our amazing team for their dedication and hard work on this project.
-Hazem Medhat
-Mohamed Ashraf
-Jana Raafat
+Hazem Medhat,
+Mohamed Ashraf,
+Jana Raafat,
 Mariam Mohamed
 
 

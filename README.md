@@ -11,7 +11,6 @@ This project addresses the Traveling Salesman Problem (TSP) in the context of PC
 - [Libraries Used](#libraries-used)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -68,12 +67,11 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature-branch`
 5. Submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
-A huge thanks to my amazing team for their dedication and hard work on this project. Your collaboration and expertise made this possible!
+A huge thanks to our amazing team for their dedication and hard work on this project.
+Hazem Medhat
+Mohamed Ashraf
+Jana Raafat
+Mariam Mohamed
 
----
 
-Feel free to customize this README to better fit your project and team specifics.
